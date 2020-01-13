@@ -17,8 +17,7 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
- bottom_shelf = ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"]
- shelf_1 = ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
+ bottom_shelf = [["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]]
 end
 
 def sorted_matrix
