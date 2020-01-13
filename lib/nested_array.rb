@@ -25,7 +25,7 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  shelf_1[0]
+  
   shelf[0][1]
 end
 
